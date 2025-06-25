@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/powerbi-roadmap/static/css/main.e6c13ad2.css",
+    "main.js": "/powerbi-roadmap/static/js/main.b6fd6974.js",
+    "static/js/453.13cc7686.chunk.js": "/powerbi-roadmap/static/js/453.13cc7686.chunk.js",
+    "index.html": "/powerbi-roadmap/index.html",
+    "main.e6c13ad2.css.map": "/powerbi-roadmap/static/css/main.e6c13ad2.css.map",
+    "main.b6fd6974.js.map": "/powerbi-roadmap/static/js/main.b6fd6974.js.map",
+    "453.13cc7686.chunk.js.map": "/powerbi-roadmap/static/js/453.13cc7686.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.b6fd6974.js"
+  ]
+}
